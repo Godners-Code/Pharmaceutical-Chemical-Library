@@ -8,3 +8,10 @@ body {
     text-rendering: optimizeLegibility;
     font-kerning: normal;
 }
+
+table {
+    width: 80%;
+    max-width: 80%;
+    overflow-x: auto;
+    display: block;
+}

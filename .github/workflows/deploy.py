@@ -1,7 +1,4 @@
-import os
-import subprocess
-import shutil
-import re
+import os, subprocess, shutil, re
 from urllib.parse import urlparse
 
 def modify_links(html_content):
@@ -43,6 +40,11 @@ def main():
     if os.path.exists(images_src):
         shutil.copytree(images_src, os.path.join(site_dir, "Images"), dirs_exist_ok=True)
         print("[INFO] Images copied successfully.")
+    
+    css_src = os.path.join(base_dir, ".github/workflows/styles.css")
+    css_dst = os.path.join(site_dir, "styles.css")
+    shutil.copy(css_src, css_dst)
+    print(f"[INFO] CSS copied: {css_src} -> {css_dst}")
 
     # 3. 遍历并渲染所有 .md 文件
     print("[INFO] START CONVERSION")
@@ -73,6 +75,7 @@ def main():
                     "pandoc", md_path, 
                     "-s", "--metadata", 
                     "title=Pharmaceutical Chemical Library",
+                    "--css", css_dst,
                     "-o", dest_html], check=True)
                 
                 # 读取生成的 HTML 并精准替换内部链接
