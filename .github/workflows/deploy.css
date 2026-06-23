@@ -1,0 +1,10 @@
+body {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 32px;
+    box-sizing: border-box;
+    hyphens: auto;
+    overflow-wrap: break-word;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+}

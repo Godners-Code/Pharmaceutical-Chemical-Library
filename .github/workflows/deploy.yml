@@ -1,0 +1,42 @@
+name: "[WORKFLOW] Deploy to GitHub Pages"
+
+on:
+  workflow_dispatch:
+  push:
+    paths-ignore:
+      - '.github/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: "[STEP] Checkout Repository via Action"
+        uses: actions/checkout@main
+      - name: "[STEP] Prepare Pandoc via Action"
+        uses: pandoc/actions/setup@main
+      - name: "[STEP] Prepare Python via Action"
+        uses: actions/setup-python@main      
+      - name: "[STEP] Build HTML and Convert Links via Python"
+        run: python .github/workflows/deploy.py
+      - name: "[STEP] Setup Pages via Action"
+        uses: actions/configure-pages@main
+      - name: "[STEP] Upload Artifact via Action"
+        uses: actions/upload-pages-artifact@main
+        with:
+          path: ./_site
+      - name: "[STEP] Deploy to GitHub Pages"
+        id: deployment
+        uses: actions/deploy-pages@main
