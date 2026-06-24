@@ -36,8 +36,8 @@ title: Pharmaceutical Chemical Library
 
 <details><summary>矿物成分与动植物提取物 => 生息效用</summary>
 
-- [利多卡因氯己定喷雾剂](./Terrestrial_Generation_Mechanisms/Lidocaine_Chlorhexidine_Spray.md) | [喷涂在龟头的效果](./Terrestrial_Generation_Mechanisms/Effect_of_Spraying_on_Glans_Penis.md)
-- 五石散：[单质硫](./Terrestrial_Generation_Mechanisms/Sulfur.md) | [方解石](./Terrestrial_Generation_Mechanisms/Calcite.md) | [石英](./Terrestrial_Generation_Mechanisms/Quartz.md) | [紫石英](./Terrestrial_Generation_Mechanisms/Amethyst.md) | [赤石脂](./Terrestrial_Generation_Mechanisms/Rubra_Halloysitum.md)
+- 【**表面麻醉剂**】[利多卡因氯己定喷雾剂](./Terrestrial_Generation_Mechanisms/Lidocaine_Chlorhexidine_Spray.md) | [喷涂在龟头的效果](./Terrestrial_Generation_Mechanisms/Effect_of_Spraying_on_Glans_Penis.md)
+- 【**五石散**】[单质硫](./Terrestrial_Generation_Mechanisms/Sulfur.md) | [方解石](./Terrestrial_Generation_Mechanisms/Calcite.md) | [石英](./Terrestrial_Generation_Mechanisms/Quartz.md) | [紫石英](./Terrestrial_Generation_Mechanisms/Amethyst.md) | [赤石脂](./Terrestrial_Generation_Mechanisms/Rubra_Halloysitum.md)
 - [氨基糖苷](./Terrestrial_Generation_Mechanisms/Aminoglycosides.md)
 - [鹿茸精注射液](./Terrestrial_Generation_Mechanisms/Deer_Antler_Extract_Injection.md)
 - [黄芪注射液](./Terrestrial_Generation_Mechanisms/Astragalus_Injection.md)
@@ -49,14 +49,14 @@ title: Pharmaceutical Chemical Library
 <details><summary>多种化学制剂与药物品种 => 毒副作用与机能影响</summary>
 
 - [亚精胺](./Functional_Reshaping_Records/Spermidine.md)
-- 止吐剂：[昂丹司琼](./Functional_Reshaping_Records/Ondansetron.md) | [帕洛诺司琼](./Functional_Reshaping_Records/Palonosetron.md)
+- 【**止吐剂**】[昂丹司琼](./Functional_Reshaping_Records/Ondansetron.md) | [帕洛诺司琼](./Functional_Reshaping_Records/Palonosetron.md)
 - [洛哌丁胺](./Functional_Reshaping_Records/Loperamide.md)
 - [水飞蓟宾](./Functional_Reshaping_Records/Silibinin.md)
 - [烟酰胺（VB3-NAM）](./Functional_Reshaping_Records/VB3-NAM.md) | [烟酸（VB3-NIA）](./Functional_Reshaping_Records/VB3-NIA.md)
 - [甲萘醌](./Functional_Reshaping_Records/Menadione.md)
 - [硫代乙酰胺（TAA）](./Functional_Reshaping_Records/TAA.md)
 - [硫代苯甲酰胺](./Functional_Reshaping_Records/Thiobenzamide.md)
-- 微量元素：[硫酸镁](./Functional_Reshaping_Records/MgSO4.md) | [硫酸锌](./Functional_Reshaping_Records/ZnSO4.md) | [葡萄糖酸锌](./Functional_Reshaping_Records/Zinc_Gluconate.md)
+- 【**微量元素**】[硫酸镁](./Functional_Reshaping_Records/MgSO4.md) | [硫酸锌](./Functional_Reshaping_Records/ZnSO4.md) | [葡萄糖酸锌](./Functional_Reshaping_Records/Zinc_Gluconate.md)
 - [育亨宾](./Functional_Reshaping_Records/Yohimbine.md)
 - [苯乙胺盐酸盐（PEA）](./Functional_Reshaping_Records/PEA.md)
 
