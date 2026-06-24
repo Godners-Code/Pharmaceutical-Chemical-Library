@@ -5,31 +5,16 @@ title: Pharmaceutical Chemical Library
 <!-- markdownlint-disable MD025 MD033 MD060 -->
 # Pharmaceutical Chemical Library
 
-- 总体目录
-- [Markdown 技术细节](#markdown-技术细节)
-- [屏障守御纪略](#屏障守御纪略)
-- [表征焕新纪实](#表征焕新纪实)
+## 总目录
 
-## Markdown 技术细节
+### Markdown 技术细节
 
-<details><summary>Markdown的核心语法、表格、链接及通用规则</summary>
-
-- [Markdown 表格](./Markdown_Documents/Markdown_Tables.md)
-- [Markdown 规则](./Markdown_Documents/Markdown_Rules.md)
-- [Markdown 语法](./Markdown_Documents/Markdown_Grammar.md)
-- [Markdown 链接](./Markdown_Documents/Markdown_Links.md)
-
-</details>
-
-<details><summary>其他Markdown相关插件指南</summary>
-
+- | [核心语法](./Markdown_Documents/Markdown_Grammar.md) | [表格](./Markdown_Documents/Markdown_Tables.md) | [链接](./Markdown_Documents/Markdown_Links.md) | [语法规范](./Markdown_Documents/Markdown_Rules.md) |
 - [OneMore 快捷键和功能](./Markdown_Documents/OneMore_Guides.md)
 
-</details>
+### 屏障守御纪略
 
-## 屏障守御纪略
-
-<details><summary>汇集福尔马林与多种抗生素、痛风药物的说明，屏障防御速查</summary>
+<details><summary>多种抗生素、化学品的说明 => 屏障防御</summary>
 
 - [万古霉素](./Barrier_Defense_Annals/Vancomycin.md)
 - [福尔马林](./Barrier_Defense_Annals/Formalin.md)
@@ -38,13 +23,25 @@ title: Pharmaceutical Chemical Library
 
 </details>
 
-## 表征焕新纪实
+### 表征焕新纪实
 
-<details><summary>汇集依克多因、替尔泊肽等成分，皮肤修护与抗衰的外观焕新</summary>
+<details><summary>多种皮肤修护与抗衰物质 => 外观焕新</summary>
 
 - [依克多因](./Appearance_Renewal_Chronicle/Ectoin.md)
 - [曲酸](./Appearance_Renewal_Chronicle/Kojic_Acid.md)
 - [替尔泊肽](./Appearance_Renewal_Chronicle/Tirzepatide.md)
 - [氢醌](./Appearance_Renewal_Chronicle/Hydroquinone.md)
+
+</details>
+
+### 地金生息机理
+
+<details><summary>矿物成分与动植物提取物 => 生息效用</summary>
+
+- [利多卡因氯己定喷雾剂](./Terrestrial_Generation_Mechanisms/Lidocaine_Chlorhexidine_Spray.md) | [喷涂在龟头的效果](./Terrestrial_Generation_Mechanisms/Effect_of_Spraying_on_Glans_Penis.md)
+- 五石散：[单质硫](./Terrestrial_Generation_Mechanisms/Sulfur.md) | [方解石](./Terrestrial_Generation_Mechanisms/Calcite.md) | [石英](./Terrestrial_Generation_Mechanisms/Quartz.md) | [紫石英](./Terrestrial_Generation_Mechanisms/Amethyst.md) | [赤石脂](./Terrestrial_Generation_Mechanisms/Rubra_Halloysitum.md)
+- [氨基糖苷](./Terrestrial_Generation_Mechanisms/Aminoglycosides.md)
+- [鹿茸精注射液](./Terrestrial_Generation_Mechanisms/Deer_Antler_Extract_Injection.md)
+- [黄芪注射液](./Terrestrial_Generation_Mechanisms/Astragalus_Injection.md)
 
 </details>
