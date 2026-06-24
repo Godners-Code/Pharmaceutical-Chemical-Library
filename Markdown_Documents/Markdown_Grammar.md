@@ -2,10 +2,10 @@
 layout: default
 title: Markdown 完整语法指南
 ---
-<!-- markdownlint-disable MD025 MD033 MD060 -->
+<!-- markdownlint-disable -->
 # Markdown 完整语法指南
 
-- 官方参考：
+- 官方参考
   - GitHub 文档：基本写作和格式语法
   - GFM 规范：<https://github.github.com/gfm/>
 
@@ -29,7 +29,7 @@ title: Markdown 完整语法指南
 
 ## 1. 标题 (Headings)
 
-使用 1~6 个 `#` 符号，后跟空格。
+使用 1~6 个 `#` 符号，后跟空格
 
 ```markdown
 # 一级标题 (H1)
@@ -42,9 +42,9 @@ title: Markdown 完整语法指南
 
 **效果：**
 
-- 标题会自动生成目录（Outline），在文件头部点击即可查看。
+- 标题会自动生成目录（Outline），在文件头部点击即可查看
 
-另一种方式（仅 H1 和 H2）：
+另一种方式（仅 H1 和 H2）
 
 ```markdown
 一级标题
@@ -63,12 +63,12 @@ title: Markdown 完整语法指南
 | ***粗斜体*** | `***文本***`            | `***粗斜体***`    | ***粗斜体***     |
 | ~~删除线~~   | `~~文本~~`              | `~~删除线~~`      | ~~删除线~~       |
 
-**注意**：GitHub 支持嵌套，如 `**粗体中_斜体_**` → **粗体中_斜体_**。
+**注意**：GitHub 支持嵌套，如 `**粗体中_斜体_**` → **粗体中_斜体_**
 
 ## 3. 段落与换行
 
-- 段落之间空一行。
-- 强制换行：在行尾输入两个空格 `  ` 或使用 `<br>`。
+- 段落之间空一行
+- 强制换行：在行尾输入两个空格 `  ` 或使用 `<br>`
 
 ## 4. 引用 (Blockquotes)
 
@@ -84,7 +84,7 @@ title: Markdown 完整语法指南
 
 ## 5. 列表 (Lists)
 
-**无序列表**：
+**无序列表**
 
 ```markdown
 - 项目1
@@ -94,7 +94,7 @@ title: Markdown 完整语法指南
 + 或者加号
 ```
 
-**有序列表**：
+**有序列表**
 
 ```markdown
 1. 第一项
@@ -103,7 +103,7 @@ title: Markdown 完整语法指南
 5. 序号可以不连续，GitHub 会自动修正
 ```
 
-**任务列表**（GFM 扩展，可交互复选框）：
+**任务列表**（GFM 扩展，可交互复选框）
 
 ```markdown
 - [x] 已完成任务
@@ -111,20 +111,20 @@ title: Markdown 完整语法指南
   - [ ] 子任务
 ```
 
-**效果**：
+**效果**
 
 - [x] 已完成任务
 - [ ] 未完成任务
 
 ## 6. 代码 (Code)
 
-**行内代码**：用反引号 `` ` `` 包裹。
+**行内代码**：用反引号 `` ` `` 包裹
 
 ```markdown
-使用 `git status` 查看状态。
+使用 `git status` 查看状态
 ```
 
-**代码块**（推荐使用围栏代码块）：
+**代码块**（推荐使用围栏代码块）
 
 ```markdown
 ```python
@@ -142,19 +142,19 @@ def hello():
 ___
 ```
 
-**效果**：
+**效果**
 
 ---
 
 ## 8. 链接 (Links)
 
-**行内链接**：
+**行内链接**
 
 ```markdown
 [链接文字](https://github.com "可选标题")
 ```
 
-**引用式链接**：
+**引用式链接**
 
 ```markdown
 [链接文字][1]
@@ -162,12 +162,12 @@ ___
 [1]: https://github.com "可选标题"
 ```
 
-**自动链接**（GFM 扩展）：
+**自动链接**（GFM 扩展）
 
-- 直接写 URL：`https://github.com` 会自动变成可点击链接。
-- 邮箱：`user@example.com` 也会自动链接。
+- 直接写 URL：`https://github.com` 会自动变成可点击链接
+- 邮箱：`user@example.com` 也会自动链接
 
-**相对链接**（推荐用于仓库内）：
+**相对链接**（推荐用于仓库内）
 
 ```markdown
 [README](./README.md)
@@ -180,13 +180,13 @@ ___
 ![替代文字](图片URL "可选标题")
 ```
 
-**示例**：
+**示例**
 
 ```markdown
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)<!-- markdownlint-disable-line MD044 -->
 ```
 
-支持相对路径、GitHub 仓库内的图片、外部 URL。
+支持相对路径、GitHub 仓库内的图片、外部 URL
 
 ## 10. 表格 (Tables)
 
@@ -197,26 +197,26 @@ ___
 | 内容   | 内容 | 内容   |
 ```
 
-**效果**：
+**效果**
 
 | 左对齐 | 居中 | 右对齐 |
 | :----- | :--: | -----: |
 | 内容   | 内容 | 内容   |
 
-- 第一行是表头。
-- 第二行用 `:` 控制对齐（左：`:-`、居中：`:-:`、右：`-:`）。
+- 第一行是表头
+- 第二行用 `:` 控制对齐（左：`:-`、居中：`:-:`、右：`-:`）
 
 ## 11. 脚注 (Footnotes)
 
 ```markdown
-这是一个脚注引用[^1]。
+这是一个脚注引用[^1]
 
-[^1]: 这里是脚注的详细解释。
+[^1]: 这里是脚注的详细解释
 ```
 
 ## 12. 忽略 Markdown 格式
 
-用反引号或 `\` 转义：
+用反引号或 `\` 转义
 
 ```markdown
 \* 这不会变成斜体 \*
@@ -224,28 +224,28 @@ ___
 
 ## 13. HTML 支持
 
-GitHub Markdown 允许有限的 HTML 标签（如 `<br>`、`<kbd>`、`<details>` 等），但出于安全原因会过滤危险标签。
+GitHub Markdown 允许有限的 HTML 标签（如 `<br>`、`<kbd>`、`<details>` 等），但出于安全原因会过滤危险标签
 
-**折叠内容示例**：
+**折叠内容示例**
 
 ```html
 <details>
 <summary>点击展开</summary>
 
-这里是隐藏内容。
+这里是隐藏内容
 </details>
 ```
 
 ## 14. 其他 GFM 特色功能
 
-- **@提及**：`@用户名` 会通知对方。
-- **Issue/PR 引用**：`#123` 会自动链接到本仓库的 Issue 123。
-- **Emoji**：直接输入 `:smile:` → 😄（完整列表见 emoji cheat sheet）。
-- **自动任务列表** 在 Issue/PR 中特别有用。
+- **@提及**：`@用户名` 会通知对方
+- **Issue/PR 引用**：`#123` 会自动链接到本仓库的 Issue 123
+- **Emoji**：直接输入 `:smile:` → 😄（完整列表见 emoji cheat sheet）
+- **自动任务列表** 在 Issue/PR 中特别有用
 
 ## 15. 高级/扩展用法
 
-- **Mermaid 图表**（部分 GitHub 上下文支持）：
+- **Mermaid 图表**（部分 GitHub 上下文支持）
 
   ````markdown:disable-run
   ```mermaid
@@ -254,7 +254,7 @@ GitHub Markdown 允许有限的 HTML 标签（如 `<br>`、`<kbd>`、`<details>`
   ```
   ````
 
-- **数学公式**（部分地方支持 KaTeX）：`$E=mc^2$` 或 `$$...$$`。
+- **数学公式**（部分地方支持 KaTeX）：`$E=mc^2$` 或 `$$...$$`
 
 ## 16. 推荐资源
 
@@ -262,8 +262,8 @@ GitHub Markdown 允许有限的 HTML 标签（如 `<br>`、`<kbd>`、`<details>`
 - GFM 完整规范：<https://github.github.com/gfm/>
 - Markdown Cheat Sheet（英文）：<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 
-**小贴士**：
+**小贴士**
 
-- 在 GitHub 上编辑时，可以实时预览（Preview 标签）。
-- 写 README 时，建议先写好结构（标题 + 目录 + 列表），再填充内容。
-- 复杂表格推荐使用在线 Markdown 表格生成器辅助。
+- 在 GitHub 上编辑时，可以实时预览（Preview 标签）
+- 写 README 时，建议先写好结构（标题 + 目录 + 列表），再填充内容
+- 复杂表格推荐使用在线 Markdown 表格生成器辅助

@@ -2,7 +2,7 @@
 layout: default
 title: Markdown 链接
 ---
-<!-- markdownlint-disable MD025 MD033 MD060 -->
+<!-- markdownlint-disable -->
 # Markdown 链接
 
 - [返回首页](../README.md)
@@ -19,17 +19,17 @@ title: Markdown 链接
 [链接文字](子文件夹路径/文件名)
 ```
 
-**注意**：
+**注意**
 
-- 使用 **正斜杠** `/`（即使你在 Windows 上）。
-- **不要** 在最前面加 `/`（加 `/` 会变成相对于仓库根目录的绝对路径）。
-- 文件名要包含扩展名（如 `.md`、`.pdf`、`.png` 等）。
-- 路径区分**大小写**。
-- 如果文件夹名或文件名包含空格，建议用短横线 `-` 或下划线 `_` 替代，或者用 `%20` 编码（但推荐避免空格）。
+- 使用 **正斜杠** `/`（即使你在 Windows 上）
+- **不要** 在最前面加 `/`（加 `/` 会变成相对于仓库根目录的绝对路径）
+- 文件名要包含扩展名（如 `.md`、`.pdf`、`.png` 等）
+- 路径区分**大小写**
+- 如果文件夹名或文件名包含空格，建议用短横线 `-` 或下划线 `_` 替代，或者用 `%20` 编码（但推荐避免空格）
 
 ## 2. 常见场景示例
 
-假设你的仓库目录结构如下：
+假设你的仓库目录结构如下
 
 ```text
 my-repo/
@@ -56,7 +56,7 @@ my-repo/
 
 ### 从子文件夹中的 Markdown 文件指向另一个子文件夹
 
-假设你在 `docs/guide.md` 中，想链接到：
+假设你在 `docs/guide.md` 中，想链接到
 
 - 同级文件：`docs/another.md`
 - 子文件夹：`docs/images/photo.jpg`
@@ -69,7 +69,7 @@ my-repo/
 [返回根目录](../../README.md)       <!-- 返回两级 -->
 ```
 
-**推荐写法总结**：
+**推荐写法总结**
 
 - 同级文件 → `[文字](filename.md)` 或 `[文字](./filename.md)`
 - 子文件夹 → `[文字](folder/filename.md)`
@@ -77,7 +77,7 @@ my-repo/
 
 ## 3. 指向文件夹本身（显示目录视图）
 
-如果想链接到整个子文件夹（显示 GitHub 的树状文件列表），需要在路径最后加 `/`：
+如果想链接到整个子文件夹（显示 GitHub 的树状文件列表），需要在路径最后加 `/`
 
 ```markdown
 [查看 docs 文件夹](docs/)
@@ -86,20 +86,20 @@ my-repo/
 
 ## 4. 其他高级写法
 
-- **使用 `./` 明确当前目录**（更清晰，推荐）：
+- **使用 `./` 明确当前目录**（更清晰，推荐）
 
   ```markdown
   [当前文件夹下的文件](./file.md)
   [子文件夹](./docs/guide.md)
   ```
 
-- **链接到特定行**（代码文件）：
+- **链接到特定行**（代码文件）
 
   ```markdown
   [查看 main.py 的第 10 行](src/main.py#L10)
   ```
 
-- **链接到特定提交/分支**（不推荐日常使用）：
+- **链接到特定提交/分支**（不推荐日常使用）
 
   ```markdown
   [旧版本指南](https://github.com/用户名/仓库名/blob/old-branch/docs/guide.md)
@@ -123,7 +123,7 @@ my-repo/
 
 ## 6. 官方建议
 
-GitHub 官方文档强烈推荐使用**相对链接**，因为：
+GitHub 官方文档强烈推荐使用**相对链接**，因为
 
 - Clone 到本地后仍然有效
 - 切换分支时自动适配
@@ -131,7 +131,7 @@ GitHub 官方文档强烈推荐使用**相对链接**，因为：
 
 参考：<https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links>
 
-**小贴士**：
+**小贴士**
 
-- 在 GitHub 编辑页面可以直接预览链接是否正确（切换到 Preview 标签）。
-- 如果链接点击后 404，最常见原因是路径大小写错误或多了/少了 `/`。
+- 在 GitHub 编辑页面可以直接预览链接是否正确（切换到 Preview 标签）
+- 如果链接点击后 404，最常见原因是路径大小写错误或多了/少了 `/`

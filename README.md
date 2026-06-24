@@ -5,14 +5,12 @@ title: Pharmaceutical Chemical Library
 <!-- markdownlint-disable MD025 MD033 MD060 -->
 # Pharmaceutical Chemical Library
 
-## 总目录
-
-### Markdown 技术细节
+## Markdown 技术细节
 
 - | [核心语法](./Markdown_Documents/Markdown_Grammar.md) | [表格](./Markdown_Documents/Markdown_Tables.md) | [链接](./Markdown_Documents/Markdown_Links.md) | [语法规范](./Markdown_Documents/Markdown_Rules.md) |
 - [OneMore 快捷键和功能](./Markdown_Documents/OneMore_Guides.md)
 
-### 屏障守御纪略
+## 屏障守御纪略
 
 <details><summary>多种抗生素、化学品的说明 => 屏障防御</summary>
 
@@ -23,7 +21,7 @@ title: Pharmaceutical Chemical Library
 
 </details>
 
-### 表征焕新纪实
+## 表征焕新纪实
 
 <details><summary>多种皮肤修护与抗衰物质 => 外观焕新</summary>
 
@@ -34,7 +32,7 @@ title: Pharmaceutical Chemical Library
 
 </details>
 
-### 地金生息机理
+## 地金生息机理
 
 <details><summary>矿物成分与动植物提取物 => 生息效用</summary>
 
@@ -43,5 +41,23 @@ title: Pharmaceutical Chemical Library
 - [氨基糖苷](./Terrestrial_Generation_Mechanisms/Aminoglycosides.md)
 - [鹿茸精注射液](./Terrestrial_Generation_Mechanisms/Deer_Antler_Extract_Injection.md)
 - [黄芪注射液](./Terrestrial_Generation_Mechanisms/Astragalus_Injection.md)
+
+</details>
+
+## 机能重塑见闻
+
+<details><summary>多种化学制剂与药物品种 => 毒副作用与机能影响</summary>
+
+- [亚精胺](./Functional_Reshaping_Records/Spermidine.md)
+- 止吐剂：[昂丹司琼](./Functional_Reshaping_Records/Ondansetron.md) | [帕洛诺司琼](./Functional_Reshaping_Records/Palonosetron.md)
+- [洛哌丁胺](./Functional_Reshaping_Records/Loperamide.md)
+- [水飞蓟宾](./Functional_Reshaping_Records/Silibinin.md)
+- [烟酰胺（VB3-NAM）](./Functional_Reshaping_Records/VB3-NAM.md) | [烟酸（VB3-NIA）](./Functional_Reshaping_Records/VB3-NIA.md)
+- [甲萘醌](./Functional_Reshaping_Records/Menadione.md)
+- [硫代乙酰胺（TAA）](./Functional_Reshaping_Records/TAA.md)
+- [硫代苯甲酰胺](./Functional_Reshaping_Records/Thiobenzamide.md)
+- 微量元素：[硫酸镁](./Functional_Reshaping_Records/MgSO4.md) | [硫酸锌](./Functional_Reshaping_Records/ZnSO4.md) | [葡萄糖酸锌](./Functional_Reshaping_Records/Zinc_Gluconate.md)
+- [育亨宾](./Functional_Reshaping_Records/Yohimbine.md)
+- [苯乙胺盐酸盐（PEA）](./Functional_Reshaping_Records/PEA.md)
 
 </details>
