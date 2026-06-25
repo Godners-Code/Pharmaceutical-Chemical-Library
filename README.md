@@ -61,3 +61,18 @@ title: Pharmaceutical Chemical Library
 - [苯乙胺盐酸盐（PEA）](./Functional_Reshaping_Records/PEA.md)
 
 </details>
+
+## 流体静压规约
+
+<details><summary>常用降压药和利尿药物 => 流体压力参考</summary>
+
+- [呋塞米](./Hydrostatic_Pressure_Standard/Furosemide.md)
+- [特拉唑嗪](./Hydrostatic_Pressure_Standard/Terazosin.md)
+- [硝苯地平](./Hydrostatic_Pressure_Standard/Nifedipine.md)
+- [维拉帕米](./Hydrostatic_Pressure_Standard/Verapamil.md)
+- [美托洛尔](./Hydrostatic_Pressure_Standard/Metoprolol.md)
+- [螺内酯](./Hydrostatic_Pressure_Standard/Spironolactone.md)
+- [酚苄明](./Hydrostatic_Pressure_Standard/Phenoxybenzamine.md)
+- [阿罗洛尔](./Hydrostatic_Pressure_Standard/Arotinolol.md)
+
+</details>
