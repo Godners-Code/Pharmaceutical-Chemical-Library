@@ -130,14 +130,13 @@ title: Pharmaceutical Chemical Library
 <details><summary>内分泌演变，全景式性激素 => 平衡调控解构</summary>
 
 - [依西美坦](./Hormonal_Balance_Compendium/依西美坦.md)
-- [克罗米芬](./Hormonal_Balance_Compendium/克罗米芬.md)
+- 【**抗芳香化**】 [阿那曲唑（ANA）](./Hormonal_Balance_Compendium/Anastrozole.md) | (./Hormonal_Balance_Compendium/Letrozole.md)
+- [克罗米芬](./Hormonal_Balance_Compendium/Clomiphene.md)
 - [尿促性素（hMG）](./Hormonal_Balance_Compendium/尿促性素（hMG）.md)
-- [己烯雌酚（DES）](./Hormonal_Balance_Compendium/己烯雌酚（DES）.md)
+- [己烯雌酚（DES）](./Hormonal_Balance_Compendium/DES.md)
 - [新斯的明](./Hormonal_Balance_Compendium/新斯的明.md)
-- [来曲唑（LET）](./Hormonal_Balance_Compendium/来曲唑（LET）.md)
 - [溴隐亭](./Hormonal_Balance_Compendium/溴隐亭.md)
 - [绒促性素（hCG）](./Hormonal_Balance_Compendium/绒促性素（hCG）.md)
 - [血促性素](./Hormonal_Balance_Compendium/血促性素.md)
-- [阿那曲唑（ANA）](./Hormonal_Balance_Compendium/Anastrozole.md)
 
 </details>
