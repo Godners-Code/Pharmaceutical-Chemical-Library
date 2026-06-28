@@ -5,8 +5,7 @@ title: 利多卡因氯己定喷雾剂（Lidocaine Chlorhexidine Spray）
 <!-- markdownlint-disable MD025 MD033 MD060 -->
 # 利多卡因氯己定喷雾剂（Lidocaine Chlorhexidine Spray）
 
-- [返回首页](../README.md)
-- 另请参阅：**[喷涂在龟头的效果](../Terrestrial_Generation_Mechanisms/Effect_of_Spraying_on_Glans_Penis.md)**
+- [返回首页](../README.md)，另请参阅：[利多卡因氯己定喷雾剂](../Terrestrial_Generation_Mechanisms/Lidocaine_Chlorhexidine_Spray.md) | [喷涂在龟头的效果](../Terrestrial_Generation_Mechanisms/Effect_of_Spraying_on_Glans_Penis.md)
 - [1. 常见别名、物理性质、CAS编号、溶解度](#1-常见别名物理性质cas编号溶解度)
 - [2. 化学性质、光热稳定性](#2-化学性质光热稳定性)
 - [3. 生化特性](#3-生化特性)

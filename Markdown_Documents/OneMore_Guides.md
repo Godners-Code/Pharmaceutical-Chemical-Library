@@ -1,9 +1,9 @@
 ---
 layout: default
-title: OneMore 快捷键和功能
+title: OneMore插件 快捷键和功能
 ---
 <!-- markdownlint-disable MD025 MD033 MD060 -->
-# OneMore 快捷键和功能
+# OneMore插件 快捷键和功能
 
 - 作为完全免费且开源的 OneNote 神级插件，**OneMore** 的定位不仅仅是 Markdown 转换，它更像是一个旨在补齐 OneNote 原生短板的“全功能效率工具箱”
 

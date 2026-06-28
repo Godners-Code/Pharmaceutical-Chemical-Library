@@ -5,8 +5,7 @@ title: 硫酸镁（MgSO₄）
 <!-- markdownlint-disable MD025 MD033 MD060 -->
 # 硫酸镁（MgSO₄）
 
-- [返回首页](../README.md)
-- 另请参见：**[硫酸锌](../Functional_Reshaping_Records/ZnSO4.md)** | **[葡萄糖酸锌](../Functional_Reshaping_Records/Zinc_Gluconate.md)**
+- [返回首页](../README.md)，另请参见：[硫酸镁](../Functional_Reshaping_Records/MgSO4.md) | [硫酸锌](../Functional_Reshaping_Records/ZnSO4.md) | [葡萄糖酸锌](../Functional_Reshaping_Records/Zinc_Gluconate.md)
 - [1. 常见别名、物理性质、CAS编号、溶解度](#1-常见别名物理性质cas编号溶解度)
 - [2. 化学性质、光热稳定性](#2-化学性质光热稳定性)
 - [3. 生化特性](#3-生化特性)

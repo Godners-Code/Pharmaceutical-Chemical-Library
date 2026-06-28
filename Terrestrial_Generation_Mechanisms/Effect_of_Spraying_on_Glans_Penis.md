@@ -5,8 +5,7 @@ title: 喷涂在龟头的效果（Effect of Spraying on Glans Penis）
 <!-- markdownlint-disable MD025 MD033 MD060 -->
 # 喷涂在龟头的效果（Effect of Spraying on Glans Penis）
 
-- [返回首页](../README.md)
-- 另请参阅：**[利多卡因氯己定喷雾剂](../Terrestrial_Generation_Mechanisms/Lidocaine_Chlorhexidine_Spray.md)**
+- [返回首页](../README.md)，另请参阅：[利多卡因氯己定喷雾剂](../Terrestrial_Generation_Mechanisms/Lidocaine_Chlorhexidine_Spray.md) | [喷涂在龟头的效果](../Terrestrial_Generation_Mechanisms/Effect_of_Spraying_on_Glans_Penis.md)
 - [简短结论](#简短结论)
 - [要点说明](#要点说明)
 - [实用建议](#实用建议)

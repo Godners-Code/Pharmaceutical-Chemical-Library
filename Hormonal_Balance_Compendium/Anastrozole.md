@@ -5,8 +5,7 @@ title: 阿那曲唑（Anastrozole）
 <!-- markdownlint-disable MD025 MD033 MD060 -->
 # 阿那曲唑（Anastrozole）
 
-- [返回首页](../README.md)
-- 另请参见：**[来曲唑](../Hormonal_Balance_Compendium/Letrozole.md)**
+- [返回首页](../README.md)，另请参见：[阿那曲唑](../Hormonal_Balance_Compendium/Anastrozole.md) | [来曲唑](../Hormonal_Balance_Compendium/Letrozole.md)
 - [1. 常见别名、物理性质、CAS编号、溶解度](#1-常见别名物理性质cas编号溶解度)
 - [2. 化学性质、光热稳定性](#2-化学性质光热稳定性)
 - [3. 生化特性](#3-生化特性)

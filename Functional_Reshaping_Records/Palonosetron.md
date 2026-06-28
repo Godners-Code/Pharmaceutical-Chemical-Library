@@ -5,8 +5,7 @@ title: 帕洛诺司琼（Palonosetron）
 <!-- markdownlint-disable MD025 MD033 MD060 -->
 # 帕洛诺司琼（Palonosetron）
 
-- [返回首页](../README.md)
-- 另请参见：[昂丹司琼](../Functional_Reshaping_Records/Ondansetron.md)
+- [返回首页](../README.md)，另请参见：[昂丹司琼](./.Functional_Reshaping_Records/Ondansetron.md) | [帕洛诺司琼](../Functional_Reshaping_Records/Palonosetron.md)
 - [1. 常见别名、物理性质、CAS编号、溶解度](#1-常见别名物理性质cas编号溶解度)
 - [2. 化学性质、光热稳定性](#2-化学性质光热稳定性)
 - [3. 生化特性](#3-生化特性)

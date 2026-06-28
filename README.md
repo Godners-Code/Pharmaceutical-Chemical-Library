@@ -7,8 +7,8 @@ title: Pharmaceutical Chemical Library
 
 ## Markdown 技术细节
 
-- | [核心语法](./Markdown_Documents/Markdown_Grammar.md) | [表格](./Markdown_Documents/Markdown_Tables.md) | [链接](./Markdown_Documents/Markdown_Links.md) | [语法规范](./Markdown_Documents/Markdown_Rules.md) |
-- [OneMore 快捷键和功能](./Markdown_Documents/OneMore_Guides.md)
+- 【Markdown】： [核心语法](./Markdown_Documents/Markdown_Grammar.md) | [表格](./Markdown_Documents/Markdown_Tables.md) | [链接](./Markdown_Documents/Markdown_Links.md) | [语法规范](./Markdown_Documents/Markdown_Rules.md) |
+- 【Microsoft Onenote】：[OneMore插件 快捷键和功能](./Markdown_Documents/OneMore_Guides.md)
 
 ## 屏障守御纪略
 
@@ -107,7 +107,7 @@ title: Pharmaceutical Chemical Library
 
 <details><summary>细胞毒性、代谢阻断及靶点重组 => 分子演变历程</summary>
 
-- [5-氟尿嘧啶（5-FU）](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/5-FU.md)
+- 【方案】[布立-氟尿衰减剂](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/BVDU-FU_Attenuant.md) | [立夫拉定（BVDU）](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/BVDU.md) | [5-氟尿嘧啶（5-FU）](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/5-FU.md)
 - [丁硫氨酸亚砜胺（BSO）](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/BSO.md)
 - [乙烷二甲磺酸酯（EDS）](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/EDS.md)
 - [二乙基马来酸酯（DEM）](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/DEM.md)
@@ -117,7 +117,6 @@ title: Pharmaceutical Chemical Library
 - [白消安](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/Busulfan.md)
 - [白细胞介素-2（IL-2）](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/IL-2.md)
 - [秋水仙碱](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/Colchicine.md)
-- [立夫拉定（BVDU）](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/BVDU.md)
 - [莱博雷生](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/Lemborexant.md)
 - [谷胱甘肽](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/Glutathione.md)
 - [邻苯二甲酸二甲酯（DMP）](./Extreme_Intervention_Integration/Biochemical_Evolution_Chronicles/DMP.md)
@@ -129,14 +128,56 @@ title: Pharmaceutical Chemical Library
 
 <details><summary>内分泌演变，全景式性激素 => 平衡调控解构</summary>
 
-- [依西美坦](./Hormonal_Balance_Compendium/依西美坦.md)
-- 【**抗芳香化**】 [阿那曲唑（ANA）](./Hormonal_Balance_Compendium/Anastrozole.md) | (./Hormonal_Balance_Compendium/Letrozole.md)
+- [依西美坦](./Hormonal_Balance_Compendium/Exemestane.md)
+- 【**抗芳香化**】 [阿那曲唑](./Hormonal_Balance_Compendium/Anastrozole.md) | [来曲唑](./Hormonal_Balance_Compendium/Letrozole.md)
+- 【**促性腺激素**】[尿粗性素](./Hormonal_Balance_Compendium/hMG.md) | [绒促性素](./Hormonal_Balance_Compendium/hCG.md) | [血促性素](./Hormonal_Balance_Compendium/ICSH.md)
 - [克罗米芬](./Hormonal_Balance_Compendium/Clomiphene.md)
-- [尿促性素（hMG）](./Hormonal_Balance_Compendium/尿促性素（hMG）.md)
 - [己烯雌酚（DES）](./Hormonal_Balance_Compendium/DES.md)
-- [新斯的明](./Hormonal_Balance_Compendium/新斯的明.md)
-- [溴隐亭](./Hormonal_Balance_Compendium/溴隐亭.md)
-- [绒促性素（hCG）](./Hormonal_Balance_Compendium/绒促性素（hCG）.md)
-- [血促性素](./Hormonal_Balance_Compendium/血促性素.md)
+- [新斯的明](./Hormonal_Balance_Compendium/Neostigmine.md)
+- [溴隐亭](./Hormonal_Balance_Compendium/Bromocriptine.md)
+
+</details>
+
+### > 微光修护纪实
+
+<details><summary>抗抑郁及精神修护对比与应用 => 点亮微光疗愈</summary>
+
+- [SSRI药物对比](./Hormonal_Balance_Compendium/Shimmering_Healing_Chronicles/Comparison_of_SSRI.md)
+- [帕罗西汀](./Hormonal_Balance_Compendium/Shimmering_Healing_Chronicles/Paxil.md)
+- [氟伏杀明](./Hormonal_Balance_Compendium/Shimmering_Healing_Chronicles/Fluvoxamine.md)
+- [氟西汀](./Hormonal_Balance_Compendium/Shimmering_Healing_Chronicles/Prozac.md)
+- [舍曲林](./Hormonal_Balance_Compendium/Shimmering_Healing_Chronicles/Zoloft.md)
+- [艾司西酞普兰](./Hormonal_Balance_Compendium/Shimmering_Healing_Chronicles/Escitalopram.md)
+- [达泊西汀](./Hormonal_Balance_Compendium/Shimmering_Healing_Chronicles/Dapoxetine.md)
+
+</details>
+
+### > 泉源动力笔记
+
+<details><summary>各类PDE5抑制剂的对比与特性 => 男性动力泉源</summary>
+
+- [PDE5抑制剂对比](./Hormonal_Balance_Compendium/Vitality_Source_Notes/PDE5_Compress.md)
+- [乌地那非](./Hormonal_Balance_Compendium/Vitality_Source_Notes/Zydena.md)
+- [他达那非](./Hormonal_Balance_Compendium/Vitality_Source_Notes/Cialis.md)
+- [伐地那非](./Hormonal_Balance_Compendium/Vitality_Source_Notes/Levitra.md)
+- [西地那非](./Hormonal_Balance_Compendium/Vitality_Source_Notes/Viagra.md)
+- [阿伐那非](./Hormonal_Balance_Compendium/Vitality_Source_Notes/Avanafil.md)
+
+</summary>
+
+### > 生机韵律流转
+
+<details><summary>各类激素与各系统中的作用 => 生命韵律见闻</summary>
+
+- [丙酸睾酮](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/TP.md) | [各系统作用](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/TP_Effect.md)（睾酮）
+- [雌二醇](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/E2.md) | [各系统作用](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/E2_Effect.md)
+- [泌乳素](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/PRL.md) | [各系统作用](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/PRL_Effect.md)
+- [皮质醇](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/COR.md) | [各系统作用](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/COR_Effect.md)
+- [孕酮](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/P.md) | [各系统作用](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/P_Effect.md)
+- [孕酮](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/P.md) | [各系统作用](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/P_Effect.md)
+- （研究）[雄雌比例](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/TE2.md)  | [抗雄雌比例](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/Anti_TE2.md)
+- [促黄体生成素](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/LH.md)
+- [促卵泡生成素](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/FSH.md)
+- [催产素](./Hormonal_Balance_Compendium/Vitality_Flow_Insights/OT.md)
 
 </details>

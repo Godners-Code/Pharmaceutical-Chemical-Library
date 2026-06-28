@@ -5,7 +5,7 @@ title: 方解石（Calcite）
 <!-- markdownlint-disable MD025 MD033 MD060 -->
 # 方解石（Calcite）
 
-- [返回首页](../README.md)
+- [返回首页](../README.md)，另请参阅：[单质硫](../Terrestrial_Generation_Mechanisms/Sulfur.md) | [方解石](../Terrestrial_Generation_Mechanisms/Calcite.md) | [石英](../Terrestrial_Generation_Mechanisms/Quartz.md) | [紫石英](../Terrestrial_Generation_Mechanisms/Amethyst.md) | [赤石脂](../Terrestrial_Generation_Mechanisms/Rubra_Halloysitum.md)
 - [1. 常见别名、物理性质、CAS编号、溶解度](#1-常见别名物理性质cas编号溶解度)
 - [2. 化学性质、光热稳定性](#2-化学性质光热稳定性)
 - [3. 生化特性](#3-生化特性)
