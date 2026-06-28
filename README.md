@@ -163,7 +163,7 @@ title: Pharmaceutical Chemical Library
 - [西地那非](./Hormonal_Balance_Compendium/Vitality_Source_Notes/Viagra.md)
 - [阿伐那非](./Hormonal_Balance_Compendium/Vitality_Source_Notes/Avanafil.md)
 
-</summary>
+</details>
 
 ### > 生机韵律流转
 
