@@ -162,6 +162,7 @@ title: Pharmaceutical Chemical Library
 - [伐地那非](./Hormonal_Balance_Compendium/Vitality_Source_Notes/Levitra.md)
 - [西地那非](./Hormonal_Balance_Compendium/Vitality_Source_Notes/Viagra.md)
 - [阿伐那非](./Hormonal_Balance_Compendium/Vitality_Source_Notes/Avanafil.md)
+- [前列地尔](./Hormonal_Balance_Compendium/Vitality_Source_Notes/PGE1.md) | [溶剂配置](./Hormonal_Balance_Compendium/Vitality_Source_Notes/PGE1_Dissolution.md)
 
 </details>
 
