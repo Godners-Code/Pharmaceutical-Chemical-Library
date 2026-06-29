@@ -46,6 +46,14 @@ def main():
     shutil.copy(css_src, css_dst)
     print(f"[INFO] CSS copied: {css_src} -> {css_dst}")
 
+    robots_src = os.path.join(base_dir, ".github/workflows/robots.txt")
+    robots_dst = os.path.join(site_dir, "robots.txt")
+    if os.path.exists(robots_src):
+        shutil.copy(robots_src, robots_dst)
+        print(f"[INFO] Robots.txt copied: {robots_src} -> {robots_dst}")
+    else:
+        print(f"[WARN] Robots.txt not found at {robots_src}")
+
     # 3. 遍历并渲染所有 .md 文件
     print("[INFO] START CONVERSION")
     for root, dirs, files in os.walk(base_dir):
